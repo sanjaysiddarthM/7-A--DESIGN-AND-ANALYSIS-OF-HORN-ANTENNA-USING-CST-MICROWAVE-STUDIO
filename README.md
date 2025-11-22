@@ -39,6 +39,9 @@ U a	L  2 we get a=110 mm for both E and H plane.
 
 <img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c75feeaf-de93-4ca6-9ed3-58d6a8d7ba52" />
 
+<img width="662" height="737" alt="image" src="https://github.com/user-attachments/assets/6a8ac118-1b5b-44f2-8693-83205d03dd21" />
+
+
 **Conclusion**
 The Horn antenna was successfully designed to operate at 5.5 GHz using CST Microwave Studio. The simulation results show the S₁₁ characteristics, radiation pattern, and half-power beamwidth. The calculated directivity is approximately 15, confirming that the designed horn antenna provides good directional radiation and efficient performance at the intended frequency.
 
